@@ -1,0 +1,12 @@
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# Mac
+.DS_Store
+
+# Temporary
+*.tmp
